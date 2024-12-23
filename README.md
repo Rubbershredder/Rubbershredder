@@ -37,26 +37,9 @@ const skills = {
 };
 ```
 
-### 🚀 Featured Projects
-
-#### 1. Codesense (Local Language Model)
-- 🔍 Pre-tuned model for detailed code reviews
-- 💡 Provides constructive feedback for code quality
-- 🛠️ Tech: Dependency injection, microservices, MongoDB, REST APIs
-
-#### 2. SpringBoot Sprinter
-- 🔧 Java/Spring Boot application for enhanced user experience
-- 📊 Streamlined data processing
-- 🛠️ Tech: Spring Boot, Java, MongoDB, REST API
-
-#### 3. House Price Crystal Ball
-- 🏠 ML model for house price prediction
-- 📈 Advanced data processing and analysis
-- 🛠️ Tech: Python, scikit-learn, pandas, NumPy
-
 ### 🏆 Achievements
 - 🥇 First Place in Smart India Internal Hackathon
-- 👥 Led multiple successful team projects
+- 👥 Contributed in multiple successful team projects
 - 🌟 Active contributor to open-source community
 
 ### 📫 Connect With Me
