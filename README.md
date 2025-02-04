@@ -30,9 +30,7 @@ const skills = {
     backend: ["Django", "Spring Boot", "Flask", "Node.js"],
     database: ["MongoDB", "MySQL", "PostgreSQL"],
     devOps: ["Docker", "Kubernetes", "CI/CD"],
-    cloud: ["AWS", "GCP"],
     tools: ["Git", "GitHub", "GitLab"],
-    ai_ml: ["scikit-learn", "pandas", "NumPy"]
 };
 ```
 
