@@ -10,7 +10,6 @@
 - 💼 Software Developer Intern at **Emeelan Pvt Ltd**
 - 🏆 **Smart India Hackathon Internal Edition Winner**
 - 🔭 Developing **Codesense** - a local language model fine-tuned with pre-prompts for code reviews.
-- 🌱 Learning **Cloud Services** and **Machine Learning**
 - 👯 Open to collaborate on innovative projects
 
 ### 🛠️ Tech Stack
