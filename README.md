@@ -26,7 +26,7 @@
 #### Frameworks & Tools:
 ```javascript
 const skills = {
-    programming language: ["Go", "Python", "Java"]
+    programming_language: ["Go", "Python", "Java"],
     frontend: ["React", "HTML5", "CSS3", "JavaScript"],
     backend: ["PocketBase", "Flask", "Strapi"],
     database: ["MongoDB", "MySQL", "PostgreSQL"],
